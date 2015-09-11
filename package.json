@@ -1,0 +1,19 @@
+{
+  "name": "atom-generate-default-options-specs",
+  "main": "./lib/atom-generate-default-options-specs",
+  "version": "0.1.0",
+  "description": "A community package for the Atom text editor which generates default options specs.",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": [
+      "atom-generate-default-options-specs:genDefOptionsSpecs",
+      "atom-generate-default-options-specs:activate"
+    ]
+  },
+  "repository": "https://github.com/norben/atom-generate-default-options-specs",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
