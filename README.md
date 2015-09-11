@@ -14,4 +14,4 @@ There are also general settings :
 
 Please note that you might need to refresh your Atom application for your settings changes to take effect.
 
-<!-- ![A screenshot of settings](https://raw.githubusercontent.com/norben/atom-increment/4465dd98e554ae09fee57719300757bc8bb8976d/images/settings.png) -->
+![A screenshot of settings](https://raw.githubusercontent.com/norben/atom-generate-default-options-specs/339c197348c5b2d5011b9c0218f2953c7a50121a/images/settings.png)
